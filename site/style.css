@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  font-size: 130%;
+
+}
+h1{
+	color: blue;
+	backface-visibility: blur;
+
+	
+}
+h2{
+	color:  lime;
+	font-style: italic;
+	font-style: bold;
+	font-size: 330%;
+}
+p{
+	
+	color: yellow;
+	font-style: italic;
+}
